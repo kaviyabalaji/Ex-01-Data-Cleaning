@@ -45,6 +45,6 @@ df.isnull().sum()
 ![o](https://github.com/kaviyabalaji/Ex-01-Data-Cleaning/blob/main/4.png)
 ![o](https://github.com/kaviyabalaji/Ex-01-Data-Cleaning/blob/main/5.png)
 ![o](https://github.com/kaviyabalaji/Ex-01-Data-Cleaning/blob/main/6.png)
-![o](
+![o](https://github.com/kaviyabalaji/Ex-01-Data-Cleaning/blob/main/7.png)
 # Result
 Hence the given data is read and perform data cleaning and save the cleaned data to a file.
