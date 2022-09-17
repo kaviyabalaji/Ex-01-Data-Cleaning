@@ -39,6 +39,6 @@ df.info()
 df.isnull().sum()
 ```
 # OUPUT
-![o](
+![o](https://github.com/kaviyabalaji/Ex-01-Data-Cleaning/blob/main/1.png)
 # Result
 Hence the given data is read and perform data cleaning and save the cleaned data to a file.
